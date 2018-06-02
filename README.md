@@ -12,5 +12,5 @@ The scripts in the repository allow for analyses carried out for the Polemoniace
 - Indpendent_Contrast/PGLS.R allows for multiple tests including indendpent contrast and PGLS for corolla length and corolla width; as well as calculating Pagel's lambda and Blomberg's K for each trait
 - MuSSE.R allows for diversification analysis of flower color with four possible states, including maximum-likelihood analysis and mcmc analysis, as well as figure plotting
 - SIMMAP_Phytools.R performs stochastic mapping for both a binary trait (autogamy versus outcrossing) and multistate (4 possible flower colors) over one tree, a distribution of trees, and when incorporating the transition matrix from the MuSSE analysis.
--Continuous_ASR.R perform ancestral state reconstructions for corolla length and width at opening of corolla tube
--Phylogenetic_PCA_and_clustering.R allows for phylogenetic PCA of length and width, as well as clustering algorithm to see if distinct clades are formed based on corolla length and width.
+- Continuous_ASR.R perform ancestral state reconstructions for corolla length and width at opening of corolla tube
+- Phylogenetic_PCA_and_clustering.R allows for phylogenetic PCA of length and width, as well as clustering algorithm to see if distinct clades are formed based on corolla length and width.
